@@ -3,7 +3,7 @@
   "devDependencies": {
     "@parcel/optimizer-css": "^2.11.0",
     "@parcel/transformer-sass": "^2.11.0",
-    "@primer/css": "^21.1.1",
+    "@primer/css": "^21.0.0",
     "parcel": "^2.11.0"
   },
   "browserslist": ">= 0.25% and not dead"
